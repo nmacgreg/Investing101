@@ -8,10 +8,10 @@
 * [What is Personal Finance, and why is it important](https://www.investopedia.com/terms/p/personalfinance.asp) Blog entry, long
 * 
 
-
 ## MOre vocab
 
 * https://personalfinancelab.com/wp-content/uploads/Unit-2.-Investing-Course-Outline.pdf
+* Financial Advisor
 * Risk
 * Asset Allocation
 * Portfolio
@@ -52,19 +52,18 @@
     * Gross Domestic Product
     * Economics
     * The Great Depressission
-     
 * Bankruptcy - Personal & Corporate
 * Gamification of these principles 
     * -- that DVD game of horse racing - diversification
     * https://www.personalfinancelab.com/ has games, not free. Beg, borrow? 
     * Library resources
-* Brokerage / Stock Broker
+* Brokerage Service / Stock Broker
 
-## Sites to avoid?
+## Topics
 
-* (Personal Finance Lab)[https://www.personalfinancelab.com/]... definitely want you to buy for a classroom. But search engines find many free resources?
+* Spreadsheets and other tools to track value over time and calculate returns
 
-##  Investment Strategies
+###  Investment Strategies
 
 * Real Estate -- a special asset class
 * Gold's special lustre [Gold Spot Prices](https://www.kitco.com/price/precious-metals/gold)
@@ -73,3 +72,7 @@
 * Order flow services like Robin Hood
 * Day Trader / Active Trader
 * Buy and Hold (HoDL)
+
+## Sites to avoid?
+
+* (Personal Finance Lab)[https://www.personalfinancelab.com/]... definitely want you to buy for a classroom. But search engines find many free resources?
