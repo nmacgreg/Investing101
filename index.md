@@ -127,6 +127,8 @@ AS DO I - the S&P!
 
 * Course: [Foundations of financial independence | Morningstar](https://www.morningstar.com.au/insights/personal-finance/244572/introducing-our-investing-course-foundations-of-financial-independence)
 * [What is Personal Finance, and why is it important](https://www.investopedia.com/terms/p/personalfinance.asp) Blog entry, long
+* [The Stock Market Game](https://www.stockmarketgame.org) - designed for either personal, or teacher-lead experiences
+*
 
 
 ## Topics
