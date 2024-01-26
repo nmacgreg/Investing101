@@ -4,9 +4,9 @@
 
 ## Free
 
-* Course: [Foundations of financial independence | Morningstar](https://www.morningstar.com.au/insights/personal-finance/244572/introducing-our-investing-course-foundations-of-financial-independence) 
+* Course: [Foundations of financial independence | Morningstar](https://www.morningstar.com.au/insights/personal-finance/244572/introducing-our-investing-course-foundations-of-financial-independence)
 * [What is Personal Finance, and why is it important](https://www.investopedia.com/terms/p/personalfinance.asp) Blog entry, long
-* 
+*
 
 ## MOre vocab
 
@@ -26,7 +26,7 @@
 * Trading Volume
 * Net Asset Value
 * Liquidity
-* Certificates of Deposit (CD) 
+* Certificates of Deposit (CD)
 * Derivatives
 * Value Investing
 * Commissions
@@ -47,15 +47,15 @@
 * Researching a stock or company
 * Publicly Traded Companies
     * Initial Public Offering, IPO
-* Geo-politics 
-    * - War, Expansion, Recession, Free Trade, and more. 
+* Geo-politics
+    * - War, Expansion, Recession, Free Trade, and more.
     * Gross Domestic Product
     * Economics
     * The Great Depressission
 * Bankruptcy - Personal & Corporate
-* Gamification of these principles 
+* Gamification of these principles
     * -- that DVD game of horse racing - diversification
-    * https://www.personalfinancelab.com/ has games, not free. Beg, borrow? 
+    * https://www.personalfinancelab.com/ has games, not free. Beg, borrow?
     * Library resources
 * Brokerage Service / Stock Broker
 
