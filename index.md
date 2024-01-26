@@ -56,4 +56,7 @@ Eg, You're not good at building your own home.  What if you could find someone t
 Don't buy a stock - buy the market.  And the temptation to believe that you're smarter than everybody and all of these "financial-industrial complex" will teach you that this old-looking guy, all
 these quant-people with Ph.D's have some sort of special insight, or they're investing in ESG... whatever the branding is, they're ripping you off!
 My recommendation on where to invest, is just start invensting, and invest in index or ETF funds.
+AS DO I - the S&P!
 ```
+
+
