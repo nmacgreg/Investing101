@@ -43,7 +43,6 @@
 * Liquidity
 * Certificates of Deposit (CD)
 * Derivatives
-* Value Investing
 * Commissions
 * Risk Assessment
 * Gambling
@@ -70,10 +69,15 @@
 * Bankruptcy - Personal & Corporate
 * Gamification of these principles
     * -- that DVD game of horse racing & the value of diversification ---
-    * https://www.personalfinancelab.com/ has games, not free. Beg, borrow?
+    * [Personal Finance Lab](https://www.personalfinancelab.com/) has games, not free. Beg, borrow?
     * Library resources?
 * Brokerage Service / Stock Broker
 * Financial Advisors (and how they make money)
+* Central Banks -- Setting interest rates
+* Credit ratings
+* Credit cards
+* Salary vs Hourly Pay
+* Short selling
 
 ### Khan Academy
 
@@ -84,8 +88,6 @@
 * Related: Economics/Finance
     * (Stocks and Bonds | Financial and capital Markets)[https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds]
     * (Investment vehicles, insurance, and retirement)[https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial]
-    *
-    *
 
 
 # The Smartest Thing I've Heard This Decade
@@ -128,7 +130,8 @@ AS DO I - the S&P!
 * Course: [Foundations of financial independence | Morningstar](https://www.morningstar.com.au/insights/personal-finance/244572/introducing-our-investing-course-foundations-of-financial-independence)
 * [What is Personal Finance, and why is it important](https://www.investopedia.com/terms/p/personalfinance.asp) Blog entry, long
 * [The Stock Market Game](https://www.stockmarketgame.org) - designed for either personal, or teacher-lead experiences
-*
+* [Investopedia Stock Simulator](https://www.investopedia.com/simulator) ... pretty believable.  Maybe it uses realtime data?
+* 
 
 
 ## Topics
@@ -144,6 +147,7 @@ AS DO I - the S&P!
 * Order flow services like Robin Hood
 * Day Trader / Active Trader
 * Buy and Hold (HoDL)
+* Value Investing
 
 ## Sites to avoid?
 
