@@ -1,0 +1,10 @@
+site_name: Investing101
+site_url: https://melody.mynet.local/Investing101/
+repo_url: https://github.com/nmacgreg/Investing101
+edit_uri: edit/main/docs
+repo_name: Investing101
+nav:
+ - Home: index.md
+ - README: README.md
+theme: readthedocs
+

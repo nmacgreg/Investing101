@@ -12,20 +12,21 @@
 
 ### Vocabulary
 
-* https://personalfinancelab.com/wp-content/uploads/Unit-2.-Investing-Course-Outline.pdf
-* Accounting
-* Taxes
-* Assets
-* Liability
-* Balance Sheets
-* Equity
-* Stocks
-* Bonds
-* Stock Markets and Bond Markets
-* Exchange Traded Funds: ETF's
-* Market Capitalization
-* HoDL
-* Market Timing
+* [https://personalfinancelab.com/wp-content/uploads/Unit-2.-Investing-Course-Outline.pdf](https://personalfinancelab.com/wp-content/uploads/Unit-2.-Investing-Course-Outline.pdf)
+* Accounting: The process of recording, summarizing, and analyzing financial transactions to provide an accurate picture of a company’s financial health.
+* Taxes: Mandatory financial charges imposed by the government on income, profits, or other transactions, used to fund public services and infrastructure.
+* Assets: Resources owned by an individual or company that have value and can be used to generate income or provide future benefits (e.g., cash, property, equipment).
+* Liability: Financial obligations or debts owed by an individual or company to other parties (e.g., loans, accounts payable).
+* Balance Sheets: Financial statements that provide a snapshot of a company’s assets, liabilities, and equity at a specific point in time, showing what the company owns and owes.
+* Equity: The ownership value in an asset or company, calculated as assets minus liabilities; for companies, it represents shareholders' ownership in the firm.
+* Stocks: Shares representing ownership in a company. Stockholders can benefit from dividends and potential appreciation in stock value.
+* Bonds: Debt securities issued by corporations or governments that pay periodic interest and return the principal amount at maturity.
+* Stock Markets and Bond Markets: Stock markets are platforms where stocks are bought and sold. Bond markets are where bonds are traded. Both are essential for raising capital and investment.
+* Exchange-Traded Funds (ETFs): Investment funds that are traded on stock exchanges, similar to individual stocks, which hold a collection of assets like stocks or bonds and offer diversification.
+* Market Capitalization: The total value of a company’s outstanding shares of stock, calculated by multiplying the stock price by the number of shares.
+* HoDL: A misspelling of "HODL," which stands for "Hold On for Dear Life," a term used in cryptocurrency communities to refer to holding onto assets despite market fluctuations.
+* Market Timing: The strategy of making investment decisions based on predicting market movements, such as buying low and selling high, often aiming to maximize returns by timing entry and exit points.
+* Corporation: A legal entity that is separate from its owners, with its own rights and responsibilities. It can enter into contracts, own assets, incur liabilities, and is subject to its own regulations. Corporations are typically owned by shareholders, who elect a board of directors to oversee management and operations.
 * Financial Advisor
 * Risk
 * Asset Allocation
@@ -94,7 +95,6 @@
 
 * Prof. Scott Galloway, "Pivot" podcast, Jan 23, 2024:  repeating what he's said several times before:
 
-```
 "Where would I invest?"
 It's dangerous to listen to people like me & talking heads on podcasts make stock recommendations.
 And I like it, and it's fun, and I tell people, "Take 1/3rd of your money and put it in stocks, because A) you'll learn about the markets, and it's kinda fun - you'll feel good about yourself when it goes up,
@@ -110,7 +110,6 @@ Don't buy a stock - buy the market.  And the temptation to believe that you're s
 these quant-people with Ph.D's have some sort of special insight, or they're investing in ESG... whatever the branding is, they're ripping you off!
 My recommendation on where to invest, is just start invensting, and invest in index or ETF funds.
 AS DO I - the S&P!
-```
 
 
 ## Getting Statistics
