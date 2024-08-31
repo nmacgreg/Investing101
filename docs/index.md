@@ -89,22 +89,22 @@
 ### Khan Academy
 
 * Related:  College Careers
-    * (Investments and Retirement | Personal Finance)[https://www.khanacademy.org/college-careers-more/personal-finance/pf-investment-vehicles-insurance-and-retirement]
-    * (Investments and Retirement)[https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:investments-retirement]
-    * (Saving and investing)[https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:investments-retirement/xa6995ea67a8e9fdd:saving-and-investing/v/saving-and-investing]
+    * [Investments and Retirement | Personal Finance](https://www.khanacademy.org/college-careers-more/personal-finance/pf-investment-vehicles-insurance-and-retirement)
+    * [Investments and Retirement](https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:investments-retirement)
+    * [Saving and investing](https://www.khanacademy.org/college-careers-more/financial-literacy/xa6995ea67a8e9fdd:investments-retirement/xa6995ea67a8e9fdd:saving-and-investing/v/saving-and-investing)
 * Related: Economics/Finance
-    * (Stocks and Bonds | Financial and capital Markets)[https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds]
-    * (Investment vehicles, insurance, and retirement)[https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial]
-
+    * [Stocks and Bonds | Financial and capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
+    * [Investment vehicles, insurance, and retirement](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial)
 
 # The Smartest Thing I've Heard This Decade
 
+* (Podcast)[https://podcasts.apple.com/ca/podcast/desantis-drops-out-stock-market-soars-and-guest-aileen-lee/id1073226719?i=1000642622731]
 * Prof. Scott Galloway, "Pivot" podcast, Jan 23, 2024:  repeating what he's said several times before:
 
 "Where would I invest?"
 It's dangerous to listen to people like me & talking heads on podcasts make stock recommendations.
 And I like it, and it's fun, and I tell people, "Take 1/3rd of your money and put it in stocks, because A) you'll learn about the markets, and it's kinda fun - you'll feel good about yourself when it goes up,
-and beat yourself up when it goes down.  But for the most part, what you want to do, if this market has taught us anything: don't try to pick the needle in the haystack -- PICK THE WHOLE HAYSTACK!
+and beat yourself up when it goes down.  But for the most part, what you want to do, if this market has taught us anything: don't try to pick the needle in the haystack -- PICK THE WHOLE HAYSTACK! --
 Buy the whole market. Unless you're a genius, and maybe you didn't have to be a genius, people talk about their wins and don't talk about their losses,
 7 stocks were responsible for 70% of the gains last year!
 You think you're smart enough to pick the 7 of the 500? So, instead, just buy the 500 and what do you know, what were you up, in the teens last year?
@@ -117,13 +117,58 @@ these quant-people with Ph.D's have some sort of special insight, or they're inv
 My recommendation on where to invest, is just start invensting, and invest in index or ETF funds.
 AS DO I - the S&P!
 
-
 ## Getting Statistics
 
 * [https://ca.finance.yahoo.com/](https://ca.finance.yahoo.com/)
 * API's ?
 
+## Broadly Speaking -->  Let's Talk About Goals
 
+* Are you going to...?
+    * Go to school
+    * Get a job
+    * Start a career?
+    * Be a professional:  doctor/dentist, lawyer, engineer
+    * Hustler: athlete, influencer, model, content creator, pool player... 
+    * A J.O.B: mechanic, librarian, teacher, social worker, psychologist, sales, fast-food, massage-therapist
+* Where are you going to live? 
+    * Rent ... house, apartment, half-a-duplex.  Split rent with friends? 
+    * Buy a house, a cabin, or a condo
+* How are you going to live?
+    * Paying for the basics of living: 
+        * Food & Clothing / Housing / Utilities 
+        * Transportation
+        * [Maslow's heirarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs#/media/File:Maslow's_Hierarchy_of_Needs2.svg): 
+            * Physiolgical needs: Food, water, warmth, & rest
+            * Safety needs: Security, safety
+            * Belongingness & Love: friends, family, and relationships
+            * Esteem: prestige / feeling of accomplishments
+            * Self-actualization: achieving your full potential, including creative activities
+    * Note - This does not include: 
+        * Eating out
+        * Internet Access / Phone 
+        * Streaming services like Netflix, Ninendo
+        * School
+* The Idea of Budgeting:
+    * At the end of the month, add up all your expenses... (all the money you paid for everything)
+    * (this really means -- you have to keep track of these... it's pretty easy now that you can download them electronically - free software for this)
+    * Next, add up all your income... (all the money paid to you) 
+    * Subtract expenses from income... do you have anything left? 
+* Your Goals Might Include:
+    * Saving the downpayment for a car
+    * Saving the downpayment for a house
+    * Saving for retirement
+    * All of these involve planning for the future, like: 
+        * I need $1,200 to buy a new computer next year
+        * My refrigerator is 12 years old, so I should start saving a little each month for a new one
+        * I want some new furniture
+    * Maybe you want to open a new business, like a restraunt, a repair shop, or a shoe repair. 
+* Retirement planning: 
+    * One day, you will want to stop working.  Eventually, your body will "wear out".  You'll want a comfortable (massage) chair beside the fire. 
+    * Can you stack enough money in the bank, that you can keep your comfortable chair from getting wet when it rains, and your tummy full? 
+    * Is your comfortable chair conveniently close to your friends?
+    * What will you do for entertainment? What are your hobbies? Can you afford them? 
+ 
 ## Here are some other resources I found
 
 ### Free
