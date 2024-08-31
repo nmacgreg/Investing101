@@ -156,3 +156,8 @@ AS DO I - the S&P!
 ## Girls and Their Money
 
 * Book Review: [Girls Just Wanna Have Funds](https://www.femaleinvest.com/en-gb-magazine/girls-just-wanna-have-funds)
+* https://www.femaleinvest.com/en-gb/home
+* https://www.femaleinvest.com/en-gb-magazine/saving-for-kids-building-a-nest-egg-for-your-childs-future
+* https://www.femaleinvest.com/investment-dictionary/long-term-goals
+* https://www.femaleinvest.com/investment-dictionary/50-30-20-rule
+
