@@ -98,26 +98,24 @@
 
 # The Smartest Thing I've Heard This Decade
 
-* (Podcast)[https://podcasts.apple.com/ca/podcast/desantis-drops-out-stock-market-soars-and-guest-aileen-lee/id1073226719?i=1000642622731]
+* [Podcast](https://podcasts.apple.com/ca/podcast/desantis-drops-out-stock-market-soars-and-guest-aileen-lee/id1073226719?i=1000642622731)
 * Prof. Scott Galloway, "Pivot" podcast, Jan 23, 2024:  repeating what he's said several times before:
+* Timecode: 41:24
 
-"Where would I invest?"
-It's dangerous to listen to people like me & talking heads on podcasts make stock recommendations.
-And I like it, and it's fun, and I tell people, "Take 1/3rd of your money and put it in stocks, because A) you'll learn about the markets, and it's kinda fun - you'll feel good about yourself when it goes up,
-and beat yourself up when it goes down.  But for the most part, what you want to do, if this market has taught us anything: don't try to pick the needle in the haystack -- PICK THE WHOLE HAYSTACK! --
-Buy the whole market. Unless you're a genius, and maybe you didn't have to be a genius, people talk about their wins and don't talk about their losses,
+* "Where would I invest?"
+* It's dangerous to listen to people like me & talking heads on podcasts make stock recommendations.
+* And I like it, and it's fun, and I tell people, "Take 1/3rd of your money and put it in stocks, because you'll learn about the markets, and it's kinda fun - you'll feel good about yourself when it goes up, and beat yourself up when it goes down.  
+* But for the most part, what you want to do, if this market has taught us anything: don't try to pick the needle in the haystack -- PICK THE WHOLE HAYSTACK! --
+* Buy the whole market. Unless you're a genius, and maybe you didn't have to be a genius, people talk about their wins and don't talk about their losses,
 7 stocks were responsible for 70% of the gains last year!
-You think you're smart enough to pick the 7 of the 500? So, instead, just buy the 500 and what do you know, what were you up, in the teens last year?
-If you do that - if you compound, going into your primary earning years, what the market has done for the last 11 years, it means every 7 years you're doubling your money. Just from an emotional and mental wellbeing,
-this is what you want to do. You want to focus all of your mental, physical, and emotional energy on your day job, and you want to turn your investing over to an outstanding professional that is really good at what
-they do, but at the same time, it's really inexpensive and that's called an index fund & ETF fund.
-Eg, You're not good at building your own home.  What if you could find someone to build your home that was outstanding at building homes, and was really cheap - that's called an index or ETF fund
-Don't buy a stock - buy the market.  And the temptation to believe that you're smarter than everybody and all of these "financial-industrial complex" will teach you that this old-looking guy, all
-these quant-people with Ph.D's have some sort of special insight, or they're investing in ESG... whatever the branding is, they're ripping you off!
-My recommendation on where to invest, is just start invensting, and invest in index or ETF funds.
-AS DO I - the S&P!
+* You think you're smart enough to pick the 7 of the 500? So, instead, just buy the 500 and what do you know, what were you up, in the teens last year?
+* If you do that - if you compound, going into your primary earning years, what the market has done since 2008 at 11%, it means every 7 years you're doubling your money. Just from an emotional and mental wellbeing, this is what you want to do. You want to focus all of your mental, physical, and emotional energy on your day job, and you want to turn your investing over to an outstanding professional that is really good at what they do, but at the same time, is really inexpensive! ... and that's called an index fund & ETF fund.
+* Eg, You're not good at building your own home.  What if you could find someone to build your home that was outstanding at building homes, and was really cheap - that's called an index or ETF fund
+* Don't buy a stock - buy the market.  And the temptation to believe that you're smarter than everybody and all of these "financial-industrial complex" which will teach you that this old-looking guy, or all these quant-people with Ph.D's have some sort of special insight, or they're investing in ESG... whatever the branding is, they're ripping you off!  
+* My recommendation on where to invest, is just start investing, and invest in index or ETF funds.
+* AS DO I - the S&P 500 index!
 
-## Getting Statistics
+## Getting Stock Market Statistics - How to do research?
 
 * [https://ca.finance.yahoo.com/](https://ca.finance.yahoo.com/)
 * API's ?
@@ -127,7 +125,7 @@ AS DO I - the S&P!
 * Are you going to...?
     * Go to school
     * Get a job
-    * Start a career?
+    * Start a career
     * Be a professional:  doctor/dentist, lawyer, engineer
     * Hustler: athlete, influencer, model, content creator, pool player... 
     * A J.O.B: mechanic, librarian, teacher, social worker, psychologist, sales, fast-food, massage-therapist
@@ -144,11 +142,13 @@ AS DO I - the S&P!
             * Belongingness & Love: friends, family, and relationships
             * Esteem: prestige / feeling of accomplishments
             * Self-actualization: achieving your full potential, including creative activities
-    * Note - This does not include: 
+    * Note, this does not include: 
         * Eating out
         * Internet Access / Phone 
         * Streaming services like Netflix, Ninendo
-        * School
+        * Going to the pool
+        * Taekwondo / Acro / Badminton
+        * Paying for college or University
 * The Idea of Budgeting:
     * At the end of the month, add up all your expenses... (all the money you paid for everything)
     * (this really means -- you have to keep track of these... it's pretty easy now that you can download them electronically - free software for this)
@@ -162,6 +162,7 @@ AS DO I - the S&P!
         * I need $1,200 to buy a new computer next year
         * My refrigerator is 12 years old, so I should start saving a little each month for a new one
         * I want some new furniture
+        * I need boots for winter
     * Maybe you want to open a new business, like a restraunt, a repair shop, or a shoe repair. 
 * Retirement planning: 
     * One day, you will want to stop working.  Eventually, your body will "wear out".  You'll want a comfortable (massage) chair beside the fire. 
